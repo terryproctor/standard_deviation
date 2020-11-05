@@ -1,4 +1,4 @@
-stats = [12, 13, 16, 17, 26, 6]
+stats = (12, 13, 16, 17, 26, 6)
 
 def total(stats):
     total = 0
